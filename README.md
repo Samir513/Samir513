@@ -70,7 +70,6 @@ A documented journey of building and revising ML models from scratch. Bilingual 
 A Python tool that watches for open Dutch embassy MVV Family visa appointment slots (via VFS Global) and sends a notification the moment one appears — built to solve a real, painful scheduling problem.
 `Python` `Automation` `Web Monitoring`
 
-> Replace the `#` links above with your actual repo URLs, and feel free to reorder based on which project you want a recruiter to see first.
 
 ---
 
